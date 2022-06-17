@@ -1,0 +1,127 @@
+{
+  "Tshirts": [
+    {
+      "img": "https://www.uboric.com/wp-content/uploads/2022/02/51mRO9X8L._UL1000_-400x400.jpg",
+      "title": "FINACHI Premium Cotton T-Shirts Combo",
+      "price": 990,
+      "offer": "-24%",
+      "size": "small",
+      "amount": 1
+    },
+    {
+      "img": "https://www.uboric.com/wp-content/uploads/2022/02/51mRO9X8L._UL1000_-400x400.jpg",
+      "title": "FINACHI Premium Cotton T-Shirts Combo",
+      "price": 990,
+      "offer": "-24%",
+      "size": "small",
+      "amount": 1
+    },
+    {
+      "img": "https://www.uboric.com/wp-content/uploads/2022/02/51mRO9X8L._UL1000_-400x400.jpg",
+      "title": "FINACHI Premium Cotton T-Shirts Combo",
+      "price": 990,
+      "offer": "-24%",
+      "size": "small",
+      "amount": 1
+    },
+    {
+      "img": "https://www.uboric.com/wp-content/uploads/2022/02/51mRO9X8L._UL1000_-400x400.jpg",
+      "title": "FINACHI Premium Cotton T-Shirts Combo",
+      "price": 990,
+      "offer": "-24%",
+      "size": "small",
+      "amount": 1
+    },
+    {
+      "img": "https://www.uboric.com/wp-content/uploads/2022/02/61-Qz6jP4QL._UL1000_-400x400.jpg",
+      "title": "FINACHI Vest Combo",
+      "price": 990,
+      "offer": "-14%",
+      "size": "small",
+      "amount": 1
+    },
+    {
+      "img": "https://www.uboric.com/wp-content/uploads/2022/02/41tpscFGC8L._UL1000_-400x400.jpg",
+      "title": "FINACHI Premium Cotton T-Shirt (Black)",
+      "price": 399,
+      "offer": "-24%",
+      "size": "small",
+      "amount": 1
+    },
+    {
+      "img": "https://www.uboric.com/wp-content/uploads/2022/02/41xl2-xcHoL._UL1000_-1-400x400.jpg",
+      "title": "FINACHI Premium Cotton T-Shirt (Dark Blue)",
+      "price": 399,
+      "offer": "-24%",
+      "size": "large",
+      "amount": 1
+    },
+    {
+      "img": "https://www.uboric.com/wp-content/uploads/2022/02/51s-EmuOnnL._UL1000_-1-400x400.jpg",
+      "title": "FINACHI Premium Cotton T-Shirt (Peach Color)",
+      "price": 399,
+      "offer": "-24%",
+      "size": "large",
+      "amount": 1
+    },
+    {
+      "img": "https://www.uboric.com/wp-content/uploads/2022/02/519oLttxcZL._UL1000_-3-400x400.jpg",
+      "title": "FINACHI Premium Cotton T-Shirt (Pista)",
+      "price": 399,
+      "offer": "-54%",
+      "size": "large",
+      "amount": 1
+    },
+    {
+      "img": "https://www.uboric.com/wp-content/uploads/2022/02/618gZB8DiKL._UL1500_-400x400.jpg",
+      "title": "FINACHI Ultra Soft T-Shirt black",
+      "price": 990,
+      "offer": "-54%",
+      "size": "large",
+      "amount": 1
+    },
+    {
+      "img": "https://www.uboric.com/wp-content/uploads/2022/02/61nB1ZuhBCL._UL1500_.jpg",
+      "title": "FINACHI Premium Cotton T-Shirts Combo",
+      "price": 990,
+      "offer": "-24%",
+      "size": "large",
+      "amount": 1
+    },
+    {
+      "img": "https://www.uboric.com/wp-content/uploads/2022/02/61IZ6ATVMFL._UL1500_-400x400.jpg",
+      "title": "FINACHI Premium Cotton T-Shirts Combo",
+      "price": 990,
+      "offer": "-24%",
+      "size": "large",
+      "amount": 1
+    },
+    {
+      "img": "https://www.uboric.com/wp-content/uploads/2022/02/61wHli5TQuL._UL1500_-400x400.jpg",
+      "title": "FINACHI Premium Cotton T-Shirts Combo",
+      "price": 990,
+      "offer": "-24%",
+      "size": "large",
+      "amount": 1
+    },
+    {
+      "img": "https://www.uboric.com/wp-content/uploads/2022/02/51mRO9X8L._UL1000_-400x400.jpg",
+      "title": "FINACHI Premium Cotton T-Shirts Combo",
+      "price": 990,
+      "offer": "-24%",
+      "size": "large",
+      "amount": 1
+    }
+  ],
+  "cartData": [
+    {
+      "img": "https://www.uboric.com/wp-content/uploads/2022/02/51mRO9X8L._UL1000_-400x400.jpg",
+      "title": "FINACHI Premium Cotton T-Shirts Combo",
+      "price": 990,
+      "offer": "-24%",
+      "size": "small",
+      "amount": 1,
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+#main{
+    background-color:white;
+    color:black;
+    display:none; 
+    /* display:"none", */
+}
+
+#main :hover{
+    cursor: pointer;
+    z-index: -1;
+    display:flexbox;
+}
